@@ -13,7 +13,6 @@ class MyApp extends StatelessWidget {
       home: HomeViewScreen(),
       title: 'Weather',
       debugShowCheckedModeBanner: false,
-      
     );
   }
 }
